@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.margin {
+  margin: 100px;
+}
+
+.table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.table td, .table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #253A46;
+  color: white;
+}
+
+#menu {
+  background-color: #253A46;
+  padding: 20px;
+  font-size: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+}
